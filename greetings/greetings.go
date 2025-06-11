@@ -1,4 +1,4 @@
-package main
+package greetings
 import "fmt"
 
 //// Hello returns a greeting for the named person.
